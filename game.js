@@ -5,6 +5,7 @@ var level = 0;
 var started = false;
 var score = 0;
 
+// adding a comment
 // Button Click Handler
 $(".btn").click(handler);
 
